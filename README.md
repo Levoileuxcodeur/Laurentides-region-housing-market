@@ -4,11 +4,11 @@ We are in January 2021 and the Covid-19 pandemic his driving the housing market 
 
 The study will be biased towards our dream house characteristics:
 
--Minimum three bedrooms
--Minimum two bathroooms
--A decently sized house - between 1200 and 1500 sq.ft
--A decently sized land - between 10000 and 20000 sq.ft away from road noise
--A garage so I can fullfill my handyman side
+ - Minimum three bedrooms
+ - Minimum two bathroooms
+ - A decently sized house - between 1200 and 1500 sq.ft
+ - A decently sized land - between 10000 and 20000 sq.ft away from road noise
+ - A garage so I can fullfill my handyman side
 
 
 #### Business questions this study intends to answer:
